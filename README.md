@@ -1,5 +1,4 @@
-### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&animation=fadeIn&section=footer&text=GoEun%20Moon&desc=Github&fontAlign=70&descAlign=90&descAlignY=70)
 <!--
 **moongzz/moongzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
