@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFFA57,100:FFCA32&height=200&animation=fadeIn&section=footer&text=GoEun%20Moon&desc=Github&fontAlign=70&descAlign=90&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFE800,100:FF0000&height=200&animation=fadeIn&section=footer&text=GoEun%20Moon&desc=Github&fontAlign=70&descAlign=90&descAlignY=70)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFCA32&lines=Welcome!💻&font=Black+Han+Sans&size=40&width=900&center=true&height=100)](https://git.io/typing-svg)
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=moongzz&theme=tokyonight&show_icons=true" width="49.5%" />
