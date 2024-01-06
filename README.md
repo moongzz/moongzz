@@ -4,7 +4,7 @@
   Java를 사용한 웹 개발에 관심이 많으며 공부 중입니다!
 </div>
 
-<div align=center><h1>📚 Tech Stacks 📚</h1></div>
+<div align=center><h1>📚 Tech Stacks</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -33,7 +33,7 @@
 
 </div>
 
-<div align=center><h1> How to reach me </h1></div>
+<div align=center><h1>📫 How to reach me </h1></div>
 <div align=center>
   <a href="mailto:moooooooong01@gmail.com">
   <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
