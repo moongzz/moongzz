@@ -1,4 +1,4 @@
-<div align=center><h1>👋 Hi! I'm Goeun! 👋</h1></div>
+<div align=center><h1>Hi! there 👋</h1></div>
 <div align=center>
   안녕하세요! 문고은입니다.<br>
   Java를 사용한 웹 개발에 관심이 많으며 공부 중입니다!
@@ -33,14 +33,17 @@
 
 </div>
 
+<div align=center><h1> How to reach me </h1></div>
+<div align=center>
+  <a href="mailto:moooooooong01@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</div>
 <br>
 <br>
 
-<div align=center>
-  <a href="s">
-    <img src="https://github-readme-stats.vercel.app/api?username=moongzz&theme=dark&show_icons=true" width="50%" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoongzz&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
 
 <!--
 **moongzz/moongzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
