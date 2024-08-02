@@ -1,7 +1,6 @@
 <div align=center><h1>Hi! there 👋</h1></div>
 <div align=center>
   안녕하세요! 문고은입니다.<br>
-  Java를 사용한 웹 개발에 관심이 많으며 공부 중입니다!
 </div>
 <br>
 <br>
